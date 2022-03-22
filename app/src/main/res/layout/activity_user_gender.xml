@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UserGender">
+
+    <TextView
+        android:id="@+id/textView41"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="61dp"
+        android:text="Bir Cinsiyet Seciniz"
+        android:textColor="#7A0404"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/IBtnMan"
+        android:layout_width="120dp"
+        android:layout_height="211dp"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="84dp"
+        android:backgroundTint="#FFFFFF"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView41"
+        app:srcCompat="@drawable/bodym" />
+
+    <TextView
+        android:id="@+id/textView44"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="192dp"
+        android:text="Erkek"
+        android:textColor="#7A0404"
+        app:layout_constraintBottom_toBottomOf="@+id/IBtnMan"
+        app:layout_constraintStart_toStartOf="@+id/IBtnMan" />
+
+    <ImageButton
+        android:id="@+id/IBtnWomen"
+        android:layout_width="120dp"
+        android:layout_height="211dp"
+        android:layout_marginTop="84dp"
+        android:layout_marginEnd="60dp"
+        android:backgroundTint="#FFFFFF"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView41"
+        app:srcCompat="@drawable/noun_woman_3594631" />
+
+    <TextView
+        android:id="@+id/textView45"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kadın"
+        android:textColor="#7A0404"
+        app:layout_constraintStart_toStartOf="@+id/IBtnWomen"
+        app:layout_constraintTop_toTopOf="@+id/IBtnWomen" />
+
+    <ImageButton
+        android:id="@+id/IBtnNull"
+        android:layout_width="120dp"
+        android:layout_height="211dp"
+        android:layout_marginTop="19dp"
+        android:layout_marginBottom="93dp"
+        android:backgroundTint="#FDFDFD"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/IBtnMan"
+        app:srcCompat="@drawable/bodyn" />
+
+    <TextView
+        android:id="@+id/textView46"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Diger"
+        android:textColor="#7A0404"
+        app:layout_constraintStart_toStartOf="@+id/IBtnNull"
+        app:layout_constraintTop_toTopOf="@+id/IBtnNull" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

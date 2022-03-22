@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/drawable-anydpi/ic_dumbell.xml" value="0.1" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/drawable-anydpi/ic_home.xml" value="0.1" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/drawable-anydpi/ic_person.xml" value="0.1" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.290625" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/drawable/efect.xml" value="0.290625" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/drawable/efect2.xml" value="0.290625" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/drawable/noun_person_1009489.xml" value="0.290625" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_anaaa.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_deneme.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_denemeeee.xml" value="0.1453125" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_fitness_list_devam.xml" value="0.215625" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_home.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_level.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_login_screnn.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_main2.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_main23.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_pose_list.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_pose_list_devam.xml" value="0.1" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_pose_list_devam2.xml" value="0.1625" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_quiz.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_quiz_oyun.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_quiz_oyunu.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_quiz_oyunu2.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_quiz_oyunu3.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_result.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_spor_aim.xml" value="0.264" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_spor_level.xml" value="0.264" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_sport_body.xml" value="0.4" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_sport_daily_actvty.xml" value="0.4" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_sport_daily_drink.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_sport_daily_sleep.xml" value="0.264" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_sport_disabled_man.xml" value="0.4" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_sport_disabled_man2.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_sport_disabled_null.xml" value="0.4" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_sport_disabled_women.xml" value="0.4" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_sport_fitness.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_sport_height_wa.xml" value="0.264" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_sport_user.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_sport_user_db.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_sports_time.xml" value="0.264" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_sports_weekly.xml" value="0.4" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_user_gender.xml" value="0.264" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_user_information.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/activity_user_name.xml" value="0.264" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/content_main.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/fragment_deneme.xml" value="0.2" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/fragment_dumbell.xml" value="0.264" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/layout/fragment_second.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/musta/AndroidStudioProjects/ProjeOne/app/src/main/res/menu/bottombar_menu.xml" value="0.175" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

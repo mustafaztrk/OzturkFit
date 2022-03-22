@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.projeone">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProjeOne">
+        <activity
+            android:name=".SportUser"
+            android:exported="false" />
+        <activity
+            android:name=".test"
+            android:exported="false" />
+        <activity
+            android:name=".FitnessListDevam"
+            android:exported="false" />
+        <activity
+            android:name=".SportFitness"
+            android:exported="false" />
+        <activity
+            android:name=".DenemeeeT"
+            android:exported="false" />
+        <activity
+            android:name=".bayrakuygulamasi.QuizOyun"
+            android:exported="false" />
+        <activity
+            android:name=".Oyun.MainActivity23"
+            android:exported="false" />
+        <activity
+            android:name=".PoseListDevam"
+            android:exported="false" />
+        <activity
+            android:name=".PoseList"
+            android:exported="false" />
+        <activity
+            android:name=".Home"
+            android:exported="false" />
+        <activity
+            android:name=".denemeeee"
+            android:exported="false" />
+        <activity
+            android:name=".UserGender"
+            android:exported="false" />
+        <activity
+            android:name=".UserName"
+            android:exported="false" />
+        <activity
+            android:name=".SportDisabledNull"
+            android:exported="false" />
+        <activity
+            android:name=".SportDisabledWomen"
+            android:exported="false" />
+        <activity
+            android:name=".SportDisabledMan"
+            android:exported="false" />
+        <activity
+            android:name=".SportDailySleep"
+            android:exported="false" />
+        <activity
+            android:name=".SportHeightWA"
+            android:exported="false" />
+        <activity
+            android:name=".SportDailyDrink"
+            android:exported="false" />
+        <activity
+            android:name=".SportDailyActvty"
+            android:exported="false" />
+        <activity
+            android:name=".SportsWeekly"
+            android:exported="false" />
+        <activity
+            android:name=".SportsTime"
+            android:exported="false" />
+        <activity
+            android:name=".SporAim"
+            android:exported="false" />
+        <activity
+            android:name=".SporLevel"
+            android:exported="false" />
+        <activity
+            android:name=".LoginScrenn"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SporLevel">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="64dp"
+        android:text="Spor Seviyenizi Seciniz"
+        android:textColor="#7A0404"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnBeginner"
+        android:text="Başlangıç Düzey"
+        android:layout_width="201dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="168dp"
+        android:backgroundTint="#7A0404"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <Button
+        android:id="@+id/btnAdvanced"
+        android:layout_width="201dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="45dp"
+        android:backgroundTint="#7A0404"
+        android:text="  İleri  Düzey"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnIntermediate" />
+
+    <Button
+        android:id="@+id/btnIntermediate"
+        android:layout_width="201dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="45dp"
+        android:backgroundTint="#7A0404"
+        android:text="Orta Düzey"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnBeginner" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

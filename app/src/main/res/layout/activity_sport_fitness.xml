@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SportFitness">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="53dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/IBtnFitness"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="center"
+                android:src="@drawable/t_mvucut"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView42"
+                android:layout_width="257dp"
+                android:layout_height="64dp"
+                android:text="Tüm Vücut Antrenmanı "
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/IBtnFitness"
+                app:layout_constraintEnd_toEndOf="@+id/IBtnFitness"
+                app:layout_constraintHorizontal_bias="0.55"
+                app:layout_constraintStart_toStartOf="@+id/IBtnFitness"
+                app:layout_constraintTop_toTopOf="@+id/IBtnFitness"
+                app:layout_constraintVertical_bias="0.56" />
+
+            <ImageButton
+                android:id="@+id/IBtnYoga"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="#0E0E0E"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ftnessbacak"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/IBtnFitness"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+            <TextView
+                android:id="@+id/textView47"
+                android:layout_width="257dp"
+                android:layout_height="64dp"
+                android:text="Alt Vücut Antrenmanı "
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/IBtnYoga"
+                app:layout_constraintEnd_toEndOf="@+id/IBtnYoga"
+                app:layout_constraintStart_toStartOf="@+id/IBtnYoga"
+                app:layout_constraintTop_toTopOf="@+id/IBtnYoga" />
+
+            <ImageButton
+                android:id="@+id/IBtnChest"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="#0E0E0E"
+                android:scaleType="centerCrop"
+                android:src="@drawable/fitnessgogus"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/IBtnYoga" />
+
+            <TextView
+                android:id="@+id/textView48"
+                android:layout_width="257dp"
+                android:layout_height="64dp"
+                android:text="Gögüs Antrenmanı "
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/IBtnChest"
+                app:layout_constraintEnd_toEndOf="@+id/IBtnChest"
+                app:layout_constraintStart_toStartOf="@+id/IBtnChest"
+                app:layout_constraintTop_toTopOf="@+id/IBtnChest" />
+
+            <ImageButton
+                android:id="@+id/IBtnSixpack"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="#0E0E0E"
+                android:scaleType="centerCrop"
+                android:src="@drawable/fitnesskarin"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/IBtnChest" />
+
+            <TextView
+                android:id="@+id/textView49"
+                android:layout_width="257dp"
+                android:layout_height="64dp"
+                android:text="Karın Antrenmanı "
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/IBtnSixpack"
+                app:layout_constraintEnd_toEndOf="@+id/IBtnSixpack"
+                app:layout_constraintHorizontal_bias="0.498"
+                app:layout_constraintStart_toStartOf="@+id/IBtnSixpack"
+                app:layout_constraintTop_toTopOf="@+id/IBtnSixpack" />
+
+            <ImageButton
+                android:id="@+id/IBtnArm"
+                android:layout_width="0dp"
+                android:layout_height="170dp"
+                android:background="#0E0E0E"
+                android:scaleType="centerCrop"
+                android:src="@drawable/fitnesskol__2_"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/IBtnShoulderBack" />
+
+            <TextView
+                android:id="@+id/textView51"
+                android:layout_width="257dp"
+                android:layout_height="64dp"
+                android:text="Kol Antrenmanı "
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/IBtnArm"
+                app:layout_constraintEnd_toEndOf="@+id/IBtnArm"
+                app:layout_constraintStart_toStartOf="@+id/IBtnArm"
+                app:layout_constraintTop_toTopOf="@+id/IBtnArm" />
+
+            <ImageButton
+                android:id="@+id/IBtnShoulderBack"
+                android:layout_width="0dp"
+                android:layout_height="170dp"
+                android:background="#0E0E0E"
+                android:scaleType="centerCrop"
+                android:src="@drawable/fitnessomuzsrt"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/IBtnSixpack" />
+
+            <TextView
+                android:id="@+id/textView52"
+                android:layout_width="287dp"
+                android:layout_height="49dp"
+                android:text="Omuz Ve Sırt Antrenmanı "
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/IBtnShoulderBack"
+                app:layout_constraintEnd_toEndOf="@+id/IBtnShoulderBack"
+                app:layout_constraintHorizontal_bias="0.62"
+                app:layout_constraintStart_toStartOf="@+id/IBtnShoulderBack"
+                app:layout_constraintTop_toTopOf="@+id/IBtnShoulderBack"
+                app:layout_constraintVertical_bias="0.305" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
